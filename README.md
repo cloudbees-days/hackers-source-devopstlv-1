@@ -1,5 +1,5 @@
 # ###########################################################
-# PLEASE NOTE:  Please try DOW Demo YAML File located in Root Directory
+# PLEASE NOTE:  Please try again DOW Demo YAML File located in Root Directory
 # ###########################################################
 
 # vue-hn-clone
